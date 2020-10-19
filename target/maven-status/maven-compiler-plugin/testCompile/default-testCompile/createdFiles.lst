@@ -1,0 +1,9 @@
+data\Dataproperties.class
+data\ExcelUtils.class
+pages\LoginPage.class
+test\AddNewCustomerStepDef.class
+test\RunTest.class
+pages\HomePage.class
+test\SetUp.class
+test\LoginStepDef.class
+pages\CreateCustomerPage.class
